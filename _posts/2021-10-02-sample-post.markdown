@@ -4,7 +4,7 @@ title: Sample post
 date: 2021-02-10 15:30:00 +0000
 description: My sample post
 img: buddhist.jpg # Add image post (optional)
-fig-caption: Photo by Henri Cartier-Bresson# Add figcaption (optional)
+fig-caption: Photo by Henri Cartier-Bresson
 tags: [Sample]
 ---
 Just testing. Ooh yeah this is fun.
