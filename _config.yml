@@ -2,7 +2,7 @@ title: Rory Bedford's blog
 description: > # this means to ignore newlines until "baseurl:"
  My personal blog about physics, maths, machine learning and Buddhism.
 permalink: ':title/'
-baseurl: "rory-bedford.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rory-bedford.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
