@@ -30,5 +30,3 @@ Well, at the bottom, we find a most curious thing. Quantum mechanics states that
 So what then, can be said of our minds? What will we find as we follow the separation of all mental events to the bitter end? Are the boundaries we place at the edge of our minds forced to shrink inwards, so that each distinct thought or feeling has its own essence, reducing us as individuals to a collection of distinct pots?
 
 I dont think so. What we will actually find is that the boundaries of our mind explode outwards. We become one with the whole, god-consciousness, connected to all.
-
-And then, of course, we start thinking 'Holy shit! I just remembered that I am god and that god has simply condensed into all these distinct but not distinct beings!'. And poof. The moment is gone. Impermance can be a real bitch sometimes. And that pesky ego always finds a way to creep into the most beautiful experiences. Anyway, I'm done blabbering for today. Be kind to others. Peace.
