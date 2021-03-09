@@ -1,4 +1,4 @@
-title: cory Bedford's blog
+title: Rory Bedford's blog
 description: > # this means to ignore newlines until "baseurl:"
  My personal blog about physics, maths, machine learning and Buddhism.
 permalink: ':title/'
@@ -7,7 +7,7 @@ url: "https://rory-bedford.github.io" # the base hostname & protocol for your si
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: cory Bedford # add your name
+author: Rory Bedford # add your name
 author-img: rory-bedford.jpg # add your photo
 about-author: I am a student interested in physics, maths, machine learning and Buddhism. # add description
 social-github: rory-bedford # add your Github handle
