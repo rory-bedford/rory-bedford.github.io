@@ -1,6 +1,6 @@
 ---
 layout: post
-title: God-consciousness and the cessation of the self
+title: The cessation of the self
 date: 2021-02-10 15:30:00 +0000
 description: My musings on enlightenment
 img: buddhist.jpg
