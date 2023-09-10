@@ -4,7 +4,7 @@ title: Rory Bedford's Homepage
 permalink: /
 ---
 
-![image](assets/profile.jpeg)
+![image](assets/profile.jpeg){width=50%}
 
 Hi! This is my personal webpage. I use it mainly for writing blog posts and book reviews, and for sharing these with friends. I love writing about the topics that fascinate me - it's a great way to clarify your own thoughts and track their changes over time. It's also nice to have a personal space where you can just write from the heart and not take things too seriously. So I'm clarifying from the get go that this blog is a pet-project, distinct from my formal work. Most of these ideas were hashed out at the pub.
 
