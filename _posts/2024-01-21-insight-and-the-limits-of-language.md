@@ -16,6 +16,8 @@ What the discussion here essentially comes down to is the relationship between s
 
 This is by no means a new debate, but is a question that has plagued philosophers of language for generations. out of this long tradition, one work stands out as particularly relevant here: Wittgenstein's Tractatus. the Tractatus presents a rigorous analysis of how language acquires meaning in relation to the world. At its root, language consists of names, which mirroor objects in the world. One level up, we have elementary propositions, which are collections of names that mirror states of affairs in the world. And finally, we reach propositions, which are built out of elementary propositions, and mirror facts. This structure is commonly called 'picture theory'. At its root, the building blocks of language (names) have meaning purely through a mapping between those names and objects in the world. The rest of language consists of logical relationships between these building blocks, which exactly mirror the logical relationships between objects in the world.
 
+![image](../assets/wittgenstein.jpg)
+
 We can see clearly how picture theory presents a basis for the development of LLMs. LLMs cannot see the mirroring between names and objects - they have, for example, no experience of the colour red. But the point is this doesn't matter - red is a logical atom which cannot be broken down and described any further. The task of a LLM is to learn the logical relationships between names, elementary propositions and propositions, through the language it is trained on, and through this it will learn exactly the logical relationship between objects, states of affairs, and facts in the world.
 
 Wittgenstein goes on to examine, under this theory, what statements can be said to be meaningful. His answer is radical and narrow: only empirical statements have meaning. Nothing can be said about the world as a whole, and all of philosophy is the result of failing to grasp this point.
@@ -48,3 +50,5 @@ Can we study the Buddhist program of cultivating the Jhanas through such an empi
 This in fact reflects my feelings about science as a pursuit more broadly. The importance of empirical questions can't exist within the empirical world at all. It is not empirical understanding, or new technological developments, that really matter, but rather what the act of actually doing science can do to us as individuals. Feelings of awe, and the experience of beauty, are what gives science its value. For only these experiences can guide us towards that realm that lies beyond all possible scientific questions.
 
 My conclusion at this stage of my life with regards to all of this is therefore quite simple: what is meaningful is empirical research in neuroscience and AI; what matters is getting our bums on our meditation cushions and practicing.
+
+![image](../assets/cushion.jpg)
