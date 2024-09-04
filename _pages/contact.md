@@ -6,8 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-## Rory Bedford
-
 - **Email:** [rorybedford@protonmail.com](mailto:rorybedford@protonmail.com)
 - **GitHub:** [github.com/rory-bedford](https://www.github.com/rory-bedford)
 - **Email:** [rbedford@mrc-lmb.cam.ac.uk](mailto:rbedford@mrc-lmb.cam.ac.uk)
