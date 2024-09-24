@@ -6,44 +6,55 @@ category: Jekyll
 layout: post
 ---
 
-## Overview
-I'm a neuro data scientist with a strong background in machine learning and physics. As a computational scientist I'm interested in working at the intersection of experiment and theory, and in interdisciplinary teams, with a passion for systems neuroscience, computational neuroscience, and machine learning.
+## Overview  
+I'm currently working as a data scientist in a systems neuroscience lab, and have a strong background in machine learning and physics. As an aspiring computational neuroscientist I'm interested in spiking neural networks and plasticity rules, and how these lead to complex computations and representations in the brain. I'm interested in interdisciplinary approaches that ground theory in known biological mechanisms and recordings.
 
-## Experience
+## Experience  
 
-### MRC Laboratory of Molecular Biology (Cambridge, UK)
-- **Career Development Fellowship (Data Scientist)** (May 2023 -- Present)
+### MRC Laboratory of Molecular Biology  
+**Cambridge, UK**  
+*Career Development Fellowship (Data Scientist) - Supervised by Marco Tripodi*  
+**May 2023 -- Present**  
 
-    My current major project is Antelope, which is a data management and processing platform for systems neuroscientists. This project provides a graphical user interface to a custom DataJoint pipeline. It supports a number of experimental paradigms, including extracellular electrophysiology, calcium imaging, and behavioural data. Antelope's database schema is designed to be as simple as possible: it tracks all raw data, metadata, and parameters to facilitate reproducible preprocessing, and provides processed data as easily queryable arrays to facilitate analysis. All preprocessing is optimised for the HPC as Nextflow pipelines. We also provide a python package with a comprehensive and extensible analysis suite that acts directly on the database.
+My work in the lab focuses on our data engineering and processing requirements, spanning the full life cycle from acquisition to publication. Work I have done includes:  
+- Working on our behaviour rig codebases to collect and stream data from Arduinos, camera feeds, and electrophysiology and calcium imaging acquisition systems.
+- Writing custom DataJoint-based processing pipelines on our HPC including DeepLabCut tracking, spikesorting, and ROI extraction and calcium signal deconvolutions.
+- Implementing automatic dimensionality reduction algorithms on this data.
+- Creating interactive visualisation dashboards of our data.
+- Collaborations on publication-ready analysis, statistics and figures with lab members.
 
-    In addition to this I also perform some database/server administration for the lab, and some coding assistance to lab members.
+### April19 Discovery Inc  
+**London, UK**  
+*Internship/MSc Project Collaboration - Supervised by Brooks Paige and Andrea Karlova*  
+**May 2022 -- Oct. 2022**  
 
-### April19 Discovery Inc (London, UK)
-- **Internship/MSc Project Collaboration** (May 2022 -- Oct. 2022)
+My MSc project looked at machine learning approaches to virtual screening. In particular, I designed a novel graph neural network that can predict protein-ligand binding affinities from undocked ligands, using graph-based representations from the modern docking model EquiBind. With April19 I worked as part of a team using generative AI models applied to fragment-based lead discovery, searching for a drug that can inhibit the enzyme MurD ligase.
 
-    My MSc project looked at machine learning approaches to virtual screening. In particular, I used graph neural networks to predict protein-ligand interactions. Additionally with April19 I worked as part of a team using generative AI models applied to fragment-based lead discovery, searching for a drug that can inhibit the enzyme MurD ligase. In particular, I compared the performance of classical docking methods with state of the art deep learning based docking methods in identifying the allosteric site on MurD.
+## Technical Skills  
+- **Programming Languages:** Proficient: _Python, Bash, SQL_; Working knowledge: _C++_  
+- **ML/Data Science Tools:** _PyTorch, Jax, NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Streamlit_  
+- **High-Performance Computing:** _Docker/Singularity, Slurm, Nextflow, Numba (CUDA), HDFS, AWS + S3_  
+- **Neuroscience Tools:** _DataJoint, DeepLabCut, CaImAn, KiloSort, NWB, CEBRA_  
+- **Misc.:** _Linux, Git, LaTeX_  
 
-## Technical Skills
+## Education  
 
-- **Programming Languages:** Python, Bash, SQL
-- **ML/Data Science Tools:** NumPy, Pandas, PyTorch, Jax, Scikit-learn
-- **Data Visualisation:** Matplotlib, Seaborn, Plotly, Streamlit
-- **Containers:** Docker, Singularity
-- **Databases:** MySQL, S3
-- **High Performance Computing:** Slurm, Nextflow, Numba
-- **Other Technologies:** Linux, Git, LaTeX
+### University College London  
+**London, UK**  
+*MSc Machine Learning; Distinction (81%)*  
+**Sept. 2021 -- Sept. 2022**  
 
-## Education
+### Oxford University  
+**Oxford, UK**  
+*BA Physics; First Class (80%)*  
+**Sept. 2017 -- Jan. 2021**  
 
-- **University College London (London, UK)**
-  - MSc Machine Learning; **Distinction (81%)** (Sept. 2021 -- Sept. 2022)
+### Winchester College  
+**Winchester, UK**  
+*Pre-U: Maths, D1; Further Maths, D1; Physics, D1; Philosophy and Theology, D2*  
+**Sept. 2012 -- June 2017**  
 
-- **Oxford University (Oxford, UK)**
-  - BA Physics; **First Class (80%)** (Sept. 2017 -- Jan. 2021)
-
-- **Winchester College (Winchester, UK)**
-  - Pre-U: Maths, D1; Further Maths, D1; Physics, D1; Philosophy and Theology, D2 (Sept. 2012 -- June 2017)
-
-## Miscellaneous
-
-- **Supervision** I co-supervised a master's student working on an image processing summer project. This project involved constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
+## Miscellaneous  
+- **Supervision:** I co-supervised a master's student working on an image processing summer project. This project involved constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
+- **Reading Group:** I currently lead the LMB's computational neuroscience reading group, which covers material such as Dayan and Abbott, and for which I provide chapter notes and lead the discussion. See my notes at [Dayan and Abbott Notes](https://rory-bedford.github.io/assets/Dayan_and_Abbott_notes.pdf).
+- **Simons Computational Neuroscience Imbizo:** I've been selected to attend the 2025 summer school in Cape Town.
