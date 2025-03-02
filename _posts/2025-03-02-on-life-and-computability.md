@@ -10,7 +10,7 @@ Few would disagree that we live in an age where making fruitful progress in neur
 
 I frequently encounter harsh resistance to the application of a computational worldview within the biological sciences and in philosophy of mind, which I believe is driven by three main causes: a misunderstanding of what computation *actually* means, misuse of the idea by many of those who do subscribe to it, and internal psychological resistance to what this idea tells us about ourselves.
 
-It is my intention here to address these three points clearly, and to show that this new metaphysics is not only of great utility when applied correctly within the sciences, but also deeply beautiful when embraced fully, in both its external and personal scope.
+It is my intention here to address these three points clearly, and to show that this new metaphysics is not only of great utility when applied correctly within the sciences, but also deeply beautiful when embraced fully, in both its objective and personal scope.
 
 First of all I want to present a formulation of **computation as simulation**. This is a slightly different route to the classical one famously developed by Alan Turing in his 1936 paper *'On Computable Numbers, with an Application to the Entscheidungsproblem'*, and I choose this route with the express intention of keeping our minds flexible as to what types of substrates we will end up considering as performing computation.
 
