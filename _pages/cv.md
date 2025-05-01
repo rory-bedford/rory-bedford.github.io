@@ -17,7 +17,6 @@ I'm currently working as a data scientist in a systems neuroscience lab, and hav
 **May 2023 -- Present**  
 
 My work in the lab focuses on our data engineering and processing requirements, spanning the full life cycle from acquisition to publication. Work I have done includes:  
-- Working on our behaviour rig codebases to collect and stream data from Arduinos, camera feeds, and electrophysiology and calcium imaging acquisition systems.
 - Writing custom DataJoint-based processing pipelines on our HPC including DeepLabCut tracking, spikesorting, and ROI extraction and calcium signal deconvolutions.
 - Implementing automatic dimensionality reduction algorithms on this data.
 - Creating interactive visualisation dashboards of our data.
@@ -54,7 +53,10 @@ My MSc project looked at machine learning approaches to virtual screening. In pa
 *Pre-U: Maths, D1; Further Maths, D1; Physics, D1; Philosophy and Theology, D2*  
 **Sept. 2012 -- June 2017**  
 
-## Miscellaneous  
-- **Supervision:** I co-supervised a master's student working on an image processing summer project. This project involved constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
-- **Reading Group:** I currently lead the LMB's computational neuroscience reading group, which covers material such as Dayan and Abbott, and for which I provide chapter notes and lead the discussion. See my notes at [Dayan and Abbott Notes](https://rory-bedford.github.io/assets/Dayan_and_Abbott_notes.pdf).
-- **Simons Computational Neuroscience Imbizo:** I've been selected to attend the 2025 summer school in Cape Town.
+## Teaching  
+- **Teaching assistant** 
+- **Supervision:** I co-supervised a master's student working on a project which involved constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
+- **Reading Group:** I founded and led the LMB's computational neuroscience reading group, which covered Dayan and Abbott. See my notes at [Dayan and Abbott Notes](https://rory-bedford.github.io/assets/Dayan_and_Abbott_notes.pdf).
+
+## Courses
+- **Simons Computational Neuroscience Imbizo:** I attended the 2025 Imbizo summer school.

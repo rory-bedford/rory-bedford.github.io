@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-- **Email:** r***b****** [at] protonmail.com
+- **Email:** r\*\*\*b\*\*\*\*\*\* [at] protonmail.com
 - **GitHub:** [github.com/rory-bedford](https://www.github.com/rory-bedford)
-- **Email:** rb****** [at] mrc-lmb.cam.ac.uk
+- **Blueksy** [https://bsky.app/profile/rory-bedford.bsky.social](https://bsky.app/profile/rory-bedford.bsky.social)
 - **LinkedIn:** [linkedin.com/in/rory-bedford-385594241](https://www.linkedin.com/in/rory-bedford-385594241/)
