@@ -1,5 +1,5 @@
 ---
-title: Antelop
+title: Open Source Software
 author: Rory Bedford
 date: 2024-08-29
 category: Jekyll
@@ -50,7 +50,7 @@ Useful links:
 * A standard library of analysis routines  
 * A reproducibility-focused framework for running and documenting analysis  
 
-Although currently closed source, you can view a project presentation [here](/assets/antelop-medium.html).
+Although Antelop isn't yet fully published, you can view a project presentation [here](/assets/antelop-medium.html).
 
 More info:
 
