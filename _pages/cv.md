@@ -7,16 +7,16 @@ layout: post
 ---
 
 ## Overview  
-I'm currently working as a data scientist in a systems neuroscience lab, and have a strong background in machine learning and physics. As an aspiring computational neuroscientist I'm interested in spiking neural networks and plasticity rules, and how these lead to complex computations and representations in the brain. I'm interested in interdisciplinary approaches that ground theory in known biological mechanisms and recordings.
+I'm a researcher in computational neuroscience, with a background in machine learning and physics. I'm interested in spiking neural networks and plasticity rules, with a focus on spatial cognitive maps. I'm interested in interdisciplinary approaches that ground theory and simulations in activity recordings and connectomics datasets.
 
 ## Experience  
 
 ### MRC Laboratory of Molecular Biology  
 **Cambridge, UK**  
-*Career Development Fellowship (Data Scientist) - Supervised by Marco Tripodi*  
-**May 2023 -- Present**  
+*Career Development Fellowship (Data Scientist/Software Developer) - Supervised by Marco Tripodi*  
+**May 2023 -- May 2025**  
 
-My work in the lab focuses on our data engineering and processing requirements, spanning the full life cycle from acquisition to publication. Work I have done includes:  
+My work in the lab focussed on our data engineering and processing requirements, spanning the full life cycle from acquisition to publication. Work I have done includes:  
 - Writing custom DataJoint-based processing pipelines on our HPC including DeepLabCut tracking, spikesorting, and ROI extraction and calcium signal deconvolutions.
 - Implementing automatic dimensionality reduction algorithms on this data.
 - Creating interactive visualisation dashboards of our data.
@@ -25,7 +25,7 @@ My work in the lab focuses on our data engineering and processing requirements, 
 ### April19 Discovery Inc  
 **London, UK**  
 *Internship/MSc Project Collaboration - Supervised by Brooks Paige and Andrea Karlova*  
-**May 2022 -- Oct. 2022**  
+**May 2022 -- Oct 2022**  
 
 My MSc project looked at machine learning approaches to virtual screening. In particular, I designed a novel graph neural network that can predict protein-ligand binding affinities from undocked ligands, using graph-based representations from the modern docking model EquiBind. With April19 I worked as part of a team using generative AI models applied to fragment-based lead discovery, searching for a drug that can inhibit the enzyme MurD ligase.
 
@@ -41,22 +41,17 @@ My MSc project looked at machine learning approaches to virtual screening. In pa
 ### University College London  
 **London, UK**  
 *MSc Machine Learning; Distinction (81%)*  
-**Sept. 2021 -- Sept. 2022**  
+**Sept 2021 -- Sept 2022**  
 
 ### Oxford University  
 **Oxford, UK**  
 *BA Physics; First Class (80%)*  
-**Sept. 2017 -- Jan. 2021**  
-
-### Winchester College  
-**Winchester, UK**  
-*Pre-U: Maths, D1; Further Maths, D1; Physics, D1; Philosophy and Theology, D2*  
-**Sept. 2012 -- June 2017**  
+**Sept 2017 -- Jan 2021**  
 
 ## Teaching  
-- **Teaching assistant** 
-- **Supervision:** I co-supervised a master's student working on a project which involved constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
-- **Reading Group:** I founded and led the LMB's computational neuroscience reading group, which covered Dayan and Abbott. See my notes at [Dayan and Abbott Notes](https://rory-bedford.github.io/assets/Dayan_and_Abbott_notes.pdf).
+- **Teaching assistant:** *King's College Cambridge (Sept 2024 -- May 2025)* I led undergraduate supervisions (small group classes) for 8 students for the Cambridge Natural Sciences Part IA Mathematical Biology course.
+- **Master's Supervision:** *Cyril van Leer (June 2023 - Sept 2023)* I co-supervised a master's student working on a project constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
 
-## Courses
-- **Simons Computational Neuroscience Imbizo:** I attended the 2025 Imbizo summer school.
+## Misc.
+- **Reading Group:** I founded and led the LMB's computational neuroscience reading group, which covered Dayan and Abbott. See my notes at [Dayan and Abbott Notes](https://rory-bedford.github.io/assets/Dayan_and_Abbott_notes.pdf).
+- **Simons Computational Neuroscience Imbizo:** *(Jan 2025 -- Feb 2025)* I attended the Imbizo summer school in Cape Town, where I worked on a project doing network-based modelling of learning in the Drosophila mushroom body.
