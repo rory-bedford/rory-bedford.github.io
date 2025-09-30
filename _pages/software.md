@@ -10,7 +10,7 @@ layout: post
 **Receptual** is a lightweight, interactive tool for computing and visualizing neuron receptive fields and linear decoders.
 
 <div style="text-align:center">
-  <img src="assets/receptual.gif" alt="Receptual gif" width="300"/>
+  <img src="/assets/receptual.gif" alt="Receptual gif" width="300"/>
 </div>
 
 Linear encoding and decoding methods are essential tools for:
@@ -27,7 +27,7 @@ These methods often produce high-dimensional arrays that are difficult to analyz
 * Interactive visualization tools for high-dimensional outputs  
 * Detailed mathematical documentation of linear methods  
 
-Useful links:
+Links:
 
 * [https://github.com/rory-bedford/Receptual](https://github.com/rory-bedford/Receptual)  
 * [https://receptual.readthedocs.io/](https://receptual.readthedocs.io/)  
@@ -38,7 +38,7 @@ Useful links:
 ## Antelop
 
 <div style="text-align:center">
-  <img src="assets/antelop.png" alt="Antelop logo" width="300"/>
+  <img src="/assets/antelop.png" alt="Antelop logo" width="300"/>
 </div>
 
 **Antelop** is a comprehensive data preprocessing, storage, and analysis tool for systems neuroscience labs. Developed in the Tripodi Lab, it offers:
@@ -52,7 +52,8 @@ Useful links:
 
 Although Antelop isn't yet fully published, you can view a project presentation [here](/assets/antelop-medium.html).
 
-More info:
+Links:
 
 * [https://antelop.readthedocs.io/](https://antelop.readthedocs.io/)  
 * [https://pypi.org/project/antelop/](https://pypi.org/project/antelop/)  
+* [https://github.com/marcotripodi/Antelope](https://github.com/marcotripodi/Antelope)

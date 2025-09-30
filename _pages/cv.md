@@ -49,6 +49,7 @@ My MSc project looked at machine learning approaches to virtual screening. In pa
 **Sept 2017 -- Jan 2021**  
 
 ## Teaching  
+- **Teaching assistant** *Neuromatch Academy (July 2025)* I ran a pod of 17 students for 3 weeks working on Neuromatch Academy's computational neuroscience course. This involved coding and maths exercises covering topics within machine learning, dynamical systems, and stochastic processes, and their applications within neuroscience.
 - **Teaching assistant:** *King's College Cambridge (Sept 2024 -- May 2025)* I led undergraduate supervisions (small group classes) for 8 students for the Cambridge Natural Sciences Part IA Mathematical Biology course.
 - **Master's Supervision:** *Cyril van Leer (June 2023 - Sept 2023)* I co-supervised a master's student working on a project constructing a brain registration and cell detection pipeline for use on our lab's section image datasets.
 
